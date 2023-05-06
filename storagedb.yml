@@ -6,7 +6,7 @@ Parameters:
     Type: String
   DBName:
     Type: String
-    Default: postgres-teste
+    Default: postgres-teste1
   DBClass:
     Default: db.t3.micro
     Description: Database instance class
